@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-author: This is a test
+author: This is a test!
 ---
 
